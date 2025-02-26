@@ -1,6 +1,5 @@
 function App() {
-  return <></>;
-  // checking the branch thing
+  return <>hello world</>;
 }
 
 export default App;
